@@ -70,7 +70,3 @@ streamlit run your_app_filename.py
 Made with ❤️ by [Nabila Sharif](https://github.com/nabila-sharif)
 
 ---
-
-## 📃 License
-
-This project is licensed under the MIT License.
