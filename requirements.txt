@@ -1,0 +1,5 @@
+streamlit
+sqlite3  # built-in, no need to install but listed for clarity
+pandas
+fpdf
+requests
